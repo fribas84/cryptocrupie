@@ -146,4 +146,5 @@ Project Link: [https://github.com/fribas84/cryptocrupie](https://github.com/frib
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
-[Solidity-url]: https://solidity-es.readthedocs.io/es/latest/_images/logo.svg
+[Solidity-url]: https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
+
