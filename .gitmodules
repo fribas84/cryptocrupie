@@ -1,0 +1,3 @@
+[submodule "cryptocrupies-web"]
+	path = cryptocrupies-web
+	url = ./cryptocrupies-web
