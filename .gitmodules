@@ -1,3 +1,3 @@
 [submodule "cryptocrupies-web"]
 	path = cryptocrupies-web
-	url = ./cryptocrupies-web
+	url = https://github.com/fribas84/cryptocrupie-web.git
